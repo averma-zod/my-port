@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "Akash-Verma.com",
     images: [
       {
-        url: "/akash-port-logo.png",
+        url: "https://raw.githubusercontent.com/averma-zod/my-port/main/public/akash-port-logo.png",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/akash-port-logo.png",
+    shortcut: "https://raw.githubusercontent.com/averma-zod/my-port/main/public/akash-port-logo.png",
   },
 };
 const inter = Inter({
