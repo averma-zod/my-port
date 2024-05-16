@@ -6,7 +6,7 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "Akash-Verma.com",
+    default: "https://akash-verma-devops.vercel.app/",
     template: "%s | Akash-Verma.com",
   },
   description: "DevOps and Security Expert",
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Akash-Verma.com",
     description:
       "DevOps and Security Solutions",
-    url: "https://chronark.com",
+    url: "https://akash-verma-devops.vercel.app/",
     siteName: "Akash-Verma.com",
     images: [
       {
