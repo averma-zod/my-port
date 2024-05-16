@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     default: "Akash-Verma.com",
     template: "%s | Akash-Verma.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "DevOps and Security Expert",
   openGraph: {
     title: "Akash-Verma.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "DevOps and Security Solutions",
     url: "https://chronark.com",
     siteName: "Akash-Verma.com",
     images: [
